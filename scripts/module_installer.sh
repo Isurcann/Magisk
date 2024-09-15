@@ -1,4 +1,4 @@
-#!/sbin/sh
+start#!/sbin/sh
 
 #################
 # Initialization
